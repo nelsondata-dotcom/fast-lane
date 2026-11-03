@@ -1,0 +1,6 @@
+{
+  "name": "AURA Commerce",
+  "description": "High-craft modern e-commerce storefront and business suite for artisan and contemporary lifestyle brands with full catalog, cart, checkout, and merchant controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
